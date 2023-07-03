@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ETO-BL
-- 👀 I’m interested in game
-- 🌱 I’m currently learning c嘎嘎
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in gameplay
+- 🌱 I’m currently learning algorithm and operating system
 - 📫 QQ：1025533678
 
 <!---
-19岁，是大聪明
+20岁，是大学生
 --->
