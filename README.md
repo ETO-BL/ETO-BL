@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ETO-BL
 - 👀 I’m interested in gameplay
-- 🌱 I’m currently learning UE5 and want to get a job.
+- 🌱 I’m currently learning UE5 and want to develop game.
 - 📫 QQ：1025533678
 
 <!---
